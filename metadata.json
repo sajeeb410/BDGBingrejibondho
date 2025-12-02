@@ -1,0 +1,7 @@
+{
+  "name": "Ingreji Bondhu",
+  "description": "A gamified English learning application for Bengali speakers suitable for all ages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
